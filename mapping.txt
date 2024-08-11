@@ -1,0 +1,17 @@
+0 MainGate
+1 RedBuilding
+2 Maths-Dept
+3 Vivek-Audi
+4 Gallery
+5 CUIC
+6 Cse
+7 IST
+8 KP
+9 Coffee-Hut
+10 Tulip
+11 Gurunath
+12 SnH
+13 Canteen
+14 CEG^2
+15 Library
+16 SportsBoard
